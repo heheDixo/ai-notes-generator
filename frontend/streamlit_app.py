@@ -1,6 +1,8 @@
 import streamlit as st
 import requests
 
+# minor update
+
 st.set_page_config(page_title="AI YouTube Smart Notes", layout="wide")
 
 API_URL = "http://127.0.0.1:8000"
